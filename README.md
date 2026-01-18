@@ -22,6 +22,7 @@ It analyzes text and provides statistics like word count, sentence count, and mo
 2. Install Flask:
 3. Run the application:
 4. Open your browser and visit:
+   
    ##Author
    Mehakpreet Kaur
    B Tech CSE
